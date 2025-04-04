@@ -29,4 +29,4 @@ Perfect for CI/CD pipelines that build containers and deploy to AKS via CircleCI
 executors:
   azure-k8s-executor:
     docker:
-      - image: TheShubhendra/circleci-aks:latest
+      - image: TheShubhendra/circleci-azure:latest
